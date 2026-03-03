@@ -27,3 +27,17 @@ Sample Superstore Dataset
 - `Sample_Superstore.csv` → Dataset used
 
 ---
+## 📈 Key Business Insights
+
+- Technology category generates the highest revenue.
+- A few top-performing products contribute major sales.
+- Some products are priced significantly above average.
+- Monthly sales show variation across the year.
+
+## 💡 Skills Demonstrated
+
+- SQL Aggregation (SUM, AVG)
+- GROUP BY & ORDER BY
+- Subqueries
+- Window Functions (RANK)
+- Business KPI Analysis
